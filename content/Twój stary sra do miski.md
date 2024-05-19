@@ -2,7 +2,7 @@ elo eloe leelo eloe leelo eloe leelo eloe leelo eloe leelo eloe leelo eloe leelo
 
 
 >[!success]+ Kutas
-> #### Dlaczego Tede kurwą jest wiedząc że rozmiar jego chuja wynosi $4\sqrt{3}$
+> ### Dlaczego Tede kurwą jest wiedząc że rozmiar jego chuja wynosi $4\sqrt{3}$
 >
 >---
 >$P = \frac{(a+b) \cdot h}{2}\\[10pt]$ 
