@@ -11,4 +11,4 @@ elo eloe leelo eloe leelo eloe leelo eloe leelo eloe leelo eloe leelo eloe leelo
 >
 >kutas
 
-![[Dynamika (3).pdf]]
+[[Dynamika (3).pdf]]
