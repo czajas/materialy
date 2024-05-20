@@ -1,3 +1,5 @@
+#laborki #sprawdzian
+
 ![[Pasted image 20240520233529.png]]
 
 ![[Pasted image 20240520233553.png]]
