@@ -1,4 +1,8 @@
-#laborki #sprawdzian
+---
+tags:
+  - laborki
+  - sprawdzian
+---
 
 ![[Pasted image 20240520233529.png]]
 
